@@ -523,8 +523,8 @@ A privacy‑first, local‑first AI desktop companion built with **Tauri** (Rust
 ### Clone & Install
 
 ```bash
-git clone https://github.com/hivemind/ai-companion.git
-cd ai-companion
+git clone https://github.com/nhlpl/AI-Companion/AI-Companion.git (will not work as all files are published as README)
+cd AI-Companion
 cd frontend && npm install && cd ..
 cargo tauri dev
 ```
