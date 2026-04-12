@@ -119,7 +119,7 @@ Type these directly in the chat input (they are not sent to the AI):
 
 ## 🧪 First‑Time Setup
 
-1. Download the app from the [GitHub releases](https://github.com/hivemind/ai-companion/releases) or build from source.
+1. Download the app from the GitHub releases or build from source.
 2. Run the executable.
 3. On first launch, the app will auto‑detect your hardware and set optimal defaults.
 4. Enter your DeepSeek API key in **Settings → API** (or set `DEEPSEEK_API_KEY` environment variable).
